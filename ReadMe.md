@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shaqc777@gmail.com.**
 
-- ⚡ Fun fact **My hobbies are Martial Arts and writing poems**
+- ⚡ Fun fact **I love Martial Arts**
 
 ## 🚀 Languages and Tools:
 
