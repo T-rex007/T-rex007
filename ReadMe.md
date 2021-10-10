@@ -64,8 +64,6 @@
       <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
       <!-- C++ -->
     </a>
-     
-
      </a>
         <a href="https://www.raspberrypi.com/" target="_blank"> 
       <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
