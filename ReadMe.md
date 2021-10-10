@@ -54,7 +54,7 @@
       <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
     </a> 
     <!-- Heroku -->
-    <a href="https://graphql.org/" target="_blank"> 
+    <a href="https://www.heroku.com/" target="_blank"> 
       <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
     </a> 
     <a href="https://redux.js.org" target="_blank"> 
@@ -94,7 +94,7 @@
 
 <a href = "https://www.linkedin.com/in/tyrel-cadogan-138129a5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/t_rell007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "ttps://www.upwork.com/freelancers/~01c7e04a899e99282b"><img src="https://img.icons8.com/ios/50/000000/upwork.png" /></a>
+<a href = "https://www.upwork.com/freelancers/~01c7e04a899e99282b"><img src="https://img.icons8.com/ios/50/000000/upwork.png" /></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
