@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Final Year Project**
+- 🔭 I’m currently working as an**Embedded System Engineer**
 
 - 🌱 I’m currently learning **Mobile Development**
 - 🤖 Robotics and AI Enthusiat
