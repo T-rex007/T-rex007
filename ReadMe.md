@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as an**Embedded System Engineer**
+- 🔭 I’m currently working as an **Embedded System Engineer**
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **about the BLE stack on ESP32**
 - 🤖 Robotics and AI Enthusiat
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
